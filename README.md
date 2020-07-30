@@ -1,5 +1,4 @@
-#**discord.py-SteveBot by Stephen Graham**
-
+#discord.py-SteveBot by Stephen Graham*
 
 ### Description of the bot
 
