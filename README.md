@@ -1,1 +1,3 @@
-"# discord.py-SteveBot" 
+"# discord.py-SteveBot by Stephen Graham" 
+
+"Personal project that made use of the discord.py library to create a discord bot with multi-purpose functionality, i.e. store user's birthdays and perfom a daily background task to check if a birthday matches the current day, if so send a message to a channel on that server. The bot also plays about with custom roles through a attempt at recreating the harry potter sorting hat"
