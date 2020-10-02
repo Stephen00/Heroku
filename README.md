@@ -1,4 +1,4 @@
-# discord.py-SteveBot by Stephen Graham
+# SteveBot by Stephen Graham
 
 
 
