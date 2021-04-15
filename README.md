@@ -1,4 +1,4 @@
-# SteveBot by Stephen Graham
+# SteveBot
 
 
 
